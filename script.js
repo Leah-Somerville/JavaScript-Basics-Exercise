@@ -17,7 +17,7 @@ console.log('I\'M MARY POPPINS, Y\'ALL! ');
 console.log("Hawk" + "eye");
 
 // 7
-console.log("Leah Somerville".length);
+console.log("Leah".length + "Somerville".length);
 
 // 8
 console.log("Avengers: Endgame"[16]);
@@ -30,7 +30,7 @@ console.log("\\");
 console.log((5**4) - 9);
 
 // 3
-
+console.log(("I".length + "AM".length + "IRON".length + "MAN".length)%2);
 
 // 4
 console.log("CAP"[1]);
